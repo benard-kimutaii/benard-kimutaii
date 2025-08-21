@@ -20,10 +20,10 @@
 - 🎓 3rd-year Computer Science student at Kabarak University  
 - 🧠 Passionate about AI for medical imaging (Brain MRI tumor detection & classification)  
 - 🏗️ Founder of Jirani Connect – a platform for apartment listings & local services 
-- ☁️ Skilled in Cloud & DevOps**: AWS, Docker, Azure, Kubernetes  
+- ☁️ Skilled in Cloud & DevOps: AWS, Docker, Azure, Kubernetes  
 - ⚡ Interests: Machine Learning, Embedded Systems, Database Design, Visual Programming
 - 🚀 Exploring MLOps, scalable cloud-native systems & advanced architectures  
-- 🎯 Goal: Secure an industrial attachment** as a Software Engineer / ML Engineer  
+- 🎯 Goal: Secure an industrial attachment as a Software Engineer / ML Engineer  
 
 ---
 
