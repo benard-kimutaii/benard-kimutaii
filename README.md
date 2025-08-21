@@ -14,73 +14,73 @@
 
 ---
 
-## 👨‍💻 About Me  
+ 👨‍💻 About Me  
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>  
 
-- 🎓 3rd-year **Computer Science student** at *Kabarak University*  
-- 🧠 Passionate about **AI for medical imaging** (Brain MRI tumor detection & classification)  
-- 🏗️ Founder of **Jirani Connect** – a platform for **apartment listings & local services**  
-- ☁️ Skilled in **Cloud & DevOps**: AWS, Docker, Azure, Kubernetes  
-- ⚡ Interests: **Machine Learning, Embedded Systems, Database Design, Visual Programming**  
-- 🚀 Exploring **MLOps, scalable cloud-native systems & advanced architectures**  
-- 🎯 Goal: Secure an **industrial attachment** as a **Software Engineer / ML Engineer**  
+- 🎓 3rd-year Computer Science student at Kabarak University  
+- 🧠 Passionate about AI for medical imaging (Brain MRI tumor detection & classification)  
+- 🏗️ Founder of Jirani Connect – a platform for apartment listings & local services 
+- ☁️ Skilled in Cloud & DevOps**: AWS, Docker, Azure, Kubernetes  
+- ⚡ Interests: Machine Learning, Embedded Systems, Database Design, Visual Programming
+- 🚀 Exploring MLOps, scalable cloud-native systems & advanced architectures  
+- 🎯 Goal: Secure an industrial attachment** as a Software Engineer / ML Engineer  
 
 ---
 
-## 🛠️ Tech Stack  
+ 🛠️ Tech Stack  
 
 <p align="center">  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">  
 </p>  
 
-**Languages**  
+Languages 
 <p>  
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />  
 </p>  
 
-**Frameworks & Tools**  
+Frameworks & Tools 
 <p>  
   <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,flask,tailwind,git,github,docker,kubernetes" />  
 </p>  
 
-**Cloud & DevOps**  
+Cloud & DevOps
 <p>  
   <img src="https://skillicons.dev/icons?i=aws,azure" />  
 </p>  
 
-**Databases & ML**  
+Databases & ML  
 <p>  
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,tensorflow,pytorch" />  
 </p>  
 
 ---
 
-## 🚀 Featured Projects  
+ 🚀 Featured Projects  
 
-### 🧠 Brain MRI Tumor Classification  
+ 🧠 Brain MRI Tumor Classification  
 <img align="right" alt="Brain GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxieTg2N3U3eGU4bWR2d3dodWZvNG5haTNjemt6MWN2Z3RzbHBnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41Ys8cBPbB6xANu8/giphy.gif" width="180"/>  
 
-- Built a **3D CNN model** for classifying brain MRI scans (*tumor vs normal*)  
+- Built a 3D CNN model for classifying brain MRI scans (tumor vs normal)  
 - Preprocessing pipeline: NIfTI → NumPy tensors → normalization → 3D augmentation  
-- Deployed prototype with **Docker + AWS EC2**  
-- **Tech**: Python, PyTorch, NiBabel, NumPy, Docker, AWS  
+- Deployed prototype with Docker + AWS EC2 
+- Tech: Python, PyTorch, NiBabel, NumPy, Docker, AWS  
 🔗 [Project Repo](#)  
 
 ---
 
-### 🏠 Jirani Connect – Apartment & Services Platform  
+🏠 Jirani Connect – Apartment & Services Platform  
 <img align="right" alt="City GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcwZnoxM3g0NmNxY21hNjM1NnRhcXd4dGk2NGNjbDViMXhuNHFzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pX4qCZekYXTYQ/giphy.gif" width="180"/>  
 
 - Web app for **apartment listings & local services** (plumbers, mama fua, electricians, etc.)  
 - Features: service filtering, authentication, Google Maps integration  
-- Cloud-ready with **Firebase + Docker + Kubernetes**  
-- **Tech**: React, Firebase, Tailwind CSS, Kubernetes  
+- Cloud-ready with Firebase + Docker + Kubernetes
+- Tech: React, Firebase, Tailwind CSS, Kubernetes  
 
 ---
 
 
 
-## 📊 GitHub Stats  
+ 📊 GitHub Stats  
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=benard-kimutaii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
@@ -93,7 +93,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+ 🏆 GitHub Achievements  
 
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=benard-kimutaii&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />  
@@ -101,7 +101,7 @@
 
 ---
 
-## 🌍 Connect with Me  
+🌍 Connect with Me  
 
 <p align="center">  
   <a href="https://linkedin.com/in/benard-rotich-030528211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
@@ -111,4 +111,4 @@
 
 ---
 
-✨ *“Technology should solve real problems, not just exist for its own sake.”* ✨  
+✨ “Technology should solve real problems, not just exist for its own sake.” ✨  
