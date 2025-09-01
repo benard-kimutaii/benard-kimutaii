@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Benard Rotich</h1>  
+<h1 align="center">Hi 👋, I'm Benard Kimutai Rotich</h1>  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Engineer;Software+Engineer+in+Progress;Always+Learning+New+Tech" alt="Typing Animation" />
