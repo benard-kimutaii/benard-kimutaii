@@ -80,7 +80,7 @@ Databases & ML
 
 
 
- 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=benard-kimutaii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
@@ -93,7 +93,7 @@ Databases & ML
 
 ---
 
- 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements  
 
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=benard-kimutaii&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />  
@@ -101,7 +101,7 @@ Databases & ML
 
 ---
 
-🌍 Connect with Me  
+##🌍 Connect with Me  
 
 <p align="center">  
   <a href="https://linkedin.com/in/benard-rotich-030528211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
