@@ -101,7 +101,7 @@ Databases & ML
 
 ---
 
-##🌍 Connect with Me  
+## 🌍 Connect with Me  
 
 <p align="center">  
   <a href="https://linkedin.com/in/benard-rotich-030528211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
