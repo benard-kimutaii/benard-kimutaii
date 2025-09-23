@@ -17,7 +17,7 @@
  👨‍💻 About Me  
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>  
 
-- 🎓 3rd-year Computer Science student at Kabarak University.
+- 🎓 Computer Science major.
 - 🧠 Passionate about AI for medical imaging (Brain MRI tumor detection & classification).
 - 🏗️ Founder of Jirani Connect – a platform for apartment listings & local services. 
 - ☁️ Skilled in Cloud & DevOps: AWS, Docker, Azure, Kubernetes.  
